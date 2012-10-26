@@ -1,4 +1,4 @@
-(ns two-word-games.two-word-games)
+(ns two-word-games)
 
 (def vowels "aeiou")
 
