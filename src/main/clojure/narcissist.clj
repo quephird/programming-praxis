@@ -1,0 +1,1 @@
+(ns main.clojure.narcissist)
